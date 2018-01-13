@@ -1,0 +1,30 @@
+.navbar-brand{
+	padding-top: 2px;
+	
+}
+
+.navbar-brand img{
+	height: 40px;
+	
+}
+
+.panel-default{
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+
+.rt-link-panel{
+	float: right;
+	padding: 0px;
+}
+
+.rt-titulo-panel{
+	float: left;
+	padding-top: 2px;
+}
+
+.alert{
+	margin-left: 20px;
+	margin-right: 20px;
+}
